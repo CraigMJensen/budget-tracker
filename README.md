@@ -13,7 +13,7 @@
 
 ## Link to Active Product
 
-  * https://guarded-refuge-29453.herokuapp.com//
+  * https://guarded-refuge-29453.herokuapp.com/
 
   
 ## License
